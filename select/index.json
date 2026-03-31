@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "No Doubt",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-03-31T08:13:47.545899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Doubt About It",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/01_No_Doubt_About_It_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Doubt About It (LP Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/02_No_Doubt_About_It_(LP_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There's No Doubt",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/03_There's_No_Doubt_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Doubt About Love",
+      "artist": "Kenny Loggins",
+      "has_synced": false,
+      "path": "select/04_No_Doubt_About_Love_Kenny_Loggins.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mouth Shut (feat. Adrian Young of No Doubt)",
+      "artist": "Lit feat. No Doubt",
+      "has_synced": true,
+      "path": "select/05_Mouth_Shut_(feat._Adrian_Young_of_No_Doubt)_Lit_feat._No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Doubt",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/06_No_Doubt_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Doubt",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/07_No_Doubt_Erasure.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Doubt",
+      "artist": "702",
+      "has_synced": true,
+      "path": "select/08_No_Doubt_702.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Doubt About It",
+      "artist": "D-A-D",
+      "has_synced": true,
+      "path": "select/09_No_Doubt_About_It_D-A-D.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Doubt About It",
+      "artist": "D‐A‐D",
+      "has_synced": true,
+      "path": "select/10_No_Doubt_About_It_D‐A‐D.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ain't No Doubt",
+      "artist": "Jimmy Nail",
+      "has_synced": true,
+      "path": "select/11_Ain't_No_Doubt_Jimmy_Nail.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Doubt About It",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/12_No_Doubt_About_It_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Doubt",
+      "artist": "Imajin",
+      "has_synced": false,
+      "path": "select/13_No_Doubt_Imajin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ain't No Doubt About It",
+      "artist": "The Sylvers",
+      "has_synced": false,
+      "path": "select/14_Ain't_No_Doubt_About_It_The_Sylvers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Doubt About It",
+      "artist": "Sylvers",
+      "has_synced": false,
+      "path": "select/15_No_Doubt_About_It_Sylvers.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Doubt About it",
+      "artist": "Paul Carrack",
+      "has_synced": false,
+      "path": "select/16_No_Doubt_About_it_Paul_Carrack.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "There's No Doubt In My Mind",
+      "artist": "The Partridge Family",
+      "has_synced": false,
+      "path": "select/17_There's_No_Doubt_In_My_Mind_The_Partridge_Family.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "No Doubt About It",
+      "artist": "Hot Chocolate",
+      "has_synced": false,
+      "path": "select/18_No_Doubt_About_It_Hot_Chocolate.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Doubt",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_No_Doubt_ENHYPEN.txt"
+    }
+  ]
+}
